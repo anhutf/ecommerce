@@ -1,0 +1,27 @@
+[
+  {
+    "email": "anhutf@gmail.com",
+    "password": "123",
+    "passwordConfimation": "123"
+  },
+  {
+    "email": "anhutf1@gmail.com",
+    "password": "asd",
+    "id": "6ca2c3b3"
+  },
+  {
+    "email": "anhutf2@gmail.com",
+    "password": "asd",
+    "id": "465d2075"
+  },
+  {
+    "email": "anhutf3@gmail.com",
+    "password": "asd",
+    "id": "16e4d1c1"
+  },
+  {
+    "email": "anhutf4@gmail.com",
+    "password": "123",
+    "id": "e2920abf"
+  }
+]
